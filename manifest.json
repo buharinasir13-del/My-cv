@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Bnaseer's cv app",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "My CV",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Professional CV and portfolio"
+}
